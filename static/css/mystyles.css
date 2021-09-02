@@ -9974,7 +9974,7 @@ hr.light {
   padding: 1.25rem 2.25rem;
   font-size: 0.85rem;
   font-weight: 700;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   border: none;
   border-radius: 10rem;
 }
@@ -10123,7 +10123,6 @@ header.masthead h1 {
 
 display: inline-block;*/
 }
-
 
 #horizontal-list {
   margin: 0;
